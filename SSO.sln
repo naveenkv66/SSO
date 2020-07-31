@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Falaina.Orca.SSO.IdentityProvider", "Falaina.Orca.SSO.IdentityProvider\Falaina.Orca.SSO.IdentityProvider.csproj", "{30DCCBF2-F98D-41B2-B012-93503F3D673E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreApp1", "..\AspNetCoreApp1\AspNetCoreApp1.csproj", "{4B290143-2FE1-4BC4-81A8-7F9044F8D7A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNetWebFormApp1", "..\ASPNetWebFormApp1\ASPNetWebFormApp1.csproj", "{E5B0C6DA-8B25-41B5-974C-10E171253E3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNetWebFormApp1_OpenId", "ASPNetWebFormApp1_OpenId\ASPNetWebFormApp1_OpenId.csproj", "{D635EAD6-B3C9-42AC-A01C-60BE9F33E80A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30DCCBF2-F98D-41B2-B012-93503F3D673E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30DCCBF2-F98D-41B2-B012-93503F3D673E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30DCCBF2-F98D-41B2-B012-93503F3D673E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30DCCBF2-F98D-41B2-B012-93503F3D673E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B290143-2FE1-4BC4-81A8-7F9044F8D7A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B290143-2FE1-4BC4-81A8-7F9044F8D7A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B290143-2FE1-4BC4-81A8-7F9044F8D7A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B290143-2FE1-4BC4-81A8-7F9044F8D7A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5B0C6DA-8B25-41B5-974C-10E171253E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5B0C6DA-8B25-41B5-974C-10E171253E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5B0C6DA-8B25-41B5-974C-10E171253E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5B0C6DA-8B25-41B5-974C-10E171253E3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D635EAD6-B3C9-42AC-A01C-60BE9F33E80A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D635EAD6-B3C9-42AC-A01C-60BE9F33E80A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D635EAD6-B3C9-42AC-A01C-60BE9F33E80A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D635EAD6-B3C9-42AC-A01C-60BE9F33E80A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB9C224D-F3AE-4749-9675-F11A1FE07DF6}
+	EndGlobalSection
+EndGlobal
